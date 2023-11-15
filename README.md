@@ -55,7 +55,3 @@ This command line script accepts 3 Arguments:
 The throttle is helpful for very large extracts where servers may reject too many requests.
 The throttle number is in milliseconds.
 
-
-## help
-
-Please contact [TannerGeo](http://tannergeo.com) for questions or assistance.
