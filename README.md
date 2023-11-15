@@ -1,4 +1,4 @@
-# AGStoShapefile by [TannerGeo](http://tannergeo.com)
+# AGStoShapefile by Anay Baid
 
 A command line tool for backing up ArcGIS Server REST Services to file.
 
